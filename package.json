@@ -1,0 +1,16 @@
+{
+  "name": "open-wc-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lit-element": "2.1.0",
+    "owc-dev-server": "0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "owc-dev-server -o"
+  },
+  "author": "@harunhasdal <harunhasdal+npm@gmail.com>",
+  "license": "ISC"
+}
